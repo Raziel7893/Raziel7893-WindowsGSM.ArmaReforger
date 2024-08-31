@@ -74,6 +74,3 @@ All these params are automatically set by WGSM (but not sure what happens if the
 
 ### License
 This project is licensed under the MIT License - see the <a href="https://github.com/raziel7893/WindowsGSM.ArmaReforger/blob/main/LICENSE">LICENSE.md</a> file for details
-
-### Thanks
-Thanks to ohmcodes for the Enshrouded and Palworld Plugins which i used for guidance to create this one
